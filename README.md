@@ -1,4 +1,9 @@
-## Hi there 👋
+### Hi there 👋
+🌱 I’m currently learning TypeScript,NextJs, Redux
+📫 How to reach me: nabilachowdhuryn96@gmail.com
+👯 I’m looking to collaborate on open source projects.
+⚡ Fun fact: Sometimes I love to do fashion designing. 
+
 
 <!--
 **chowdhurynabila/chowdhurynabila** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
