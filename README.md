@@ -1,8 +1,10 @@
 ### Hi there 👋
-🌱 I’m currently learning TypeScript,NextJs, Redux
-📫 How to reach me: nabilachowdhuryn96@gmail.com
-👯 I’m looking to collaborate on open source projects.
-⚡ Fun fact: Sometimes I love to do fashion designing. 
+
+- 🌱 I’m currently learning TypeScript,NextJs, Redux
+- 👯 I’m looking to collaborate on open source projects.
+- 📫 How to reach me: nabilachowdhuryn96@gmail.com
+- ⚡ Fun fact:Sometimes I love to do fashion design.
+ 
 
 
 <!--
