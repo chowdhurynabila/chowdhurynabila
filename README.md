@@ -2,8 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=FullStack+Web+Developer+.)](https://git.io/typing-svg)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=chowdhurynabila&theme=apprentice)](https://git.io/streak-stats)
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=chowdhurynabila&theme=neon)](https://git.io/streak-stats)
 - 🌱 I’m currently learning TypeScript,NextJs, Redux
 - 👯 I’m looking to collaborate on open source projects.
 - 📫 How to reach me: nabilachowdhuryn96@gmail.com
