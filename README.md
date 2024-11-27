@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋 I'm Nabila Chowdhury.
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=FullStack+Web+Developer+.)](https://git.io/typing-svg)
 
 - 🌱 I’m currently learning TypeScript,NextJs, Redux
 - 👯 I’m looking to collaborate on open source projects.
