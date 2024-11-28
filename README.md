@@ -1,9 +1,9 @@
-<img src="https://img.freepik.com/free-vector/colorful-illustration-female-programmer-doing-her-job_23-2148280705.jpg?t=st=1732812379~exp=1732815979~hmac=77f3894302fb87e85e70cf2a66bdf13edad6852f30e2aa187925933d8d4e658e&w=740" align="left" style="width: 100%" />  
+
   
 
-### <div align="center">I'm Nabila Chowdhury, a full-time frontend developer  👩‍💻</div>  
+### <div align="center">Hi, I'm Nabila Chowdhury, a full-time frontend developer  👩‍💻</div>  
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=FullStack+Web+Developer+.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Frontend+Web+Developer+.)](https://git.io/typing-svg)
   
 
 - 🔭 I’m currently working on [glam-cart-frontend](https://github.com/chowdhurynabila/glam-cart-frontend)  
@@ -65,8 +65,6 @@
 </td><td valign="top" width="33%">
 
 
-
-</td></tr></table>  
 
 <br/>  
 
